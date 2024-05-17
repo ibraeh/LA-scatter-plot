@@ -12,11 +12,11 @@
 * **Data Format:** The data was in CSV format.
 
 # Data Exploration Insights
-* Spatial distribution of crimes
+* **Spatial distribution of crimes:**
 The visualization enabled spatial distribution of crime across geographical regions, making identifying areas with low or high crime rates easy.
-* Hotspots and Coldspots:
+* **Hotspots and Coldspots:**
 Clusters of data points in an area indicated a high concentration of crime, Hotspots. Likewise, locations with few or no data points represented low concentration of crime, Coldspots. 
-* Comparative Analysis
+* **Comparative Analysis:**
 Users could easily use the visualization to compare crime patterns across different geographical locations.
 
 
