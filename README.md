@@ -5,7 +5,8 @@
 
 # Project Description
 * **Functionality:** A scatter plot  designed with d3.js having the following functionalities: tooltip, brushing, zooming, panning, responsive axes, filtering, and interactive legend. 
-* **Technology and tools:** HTML, CSS, D3.js v7, jQuery, Bootstrap, and Visual Studio Code.
+* **Technology and tools:** This project leverages d3.js version 7 to create a fully interactive scatter plot with features like tooltips, brushing for data filtering, zooming, panning, and responsive axes. Additionally, jQuery and Bootstrap were used to enhance user interaction and responsiveness across different screen sizes.
+** Tools: HTML, CSS, D3.js v7, jQuery, Bootstrap, and Visual Studio Code.
 
 # Dataset
 * **Data Source:** The dataset was obtained from Kaggle via the link [Crime Data From 2020 to Present](https://www.kaggle.com/datasets/shubhamgupta012/crime-data-from-2020-to-present).
