@@ -27,7 +27,7 @@ The visualization was responsive and adaptable to various screen sizes. It also 
 # Future Works
 To include and enhance the interactive features. To provide more accessibility options.
 
-**7. View the Project:**
+* **View the Project:**
 
 
 ![la_scatter](https://github.com/ibraeh/LA-scatter-plot/assets/29314702/328508ae-206e-475e-bf67-62bc815cd9f6)
