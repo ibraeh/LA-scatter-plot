@@ -1,6 +1,6 @@
 
 # Title & Introduction
-- **Title:**  [Crime Location Distribution](https://ibraeh.github.io/LA-scatter-plot/HTML/index.html)
+- **Title:**  [Crime Location Distribution](https://ibraeh.github.io/LA-scatter-plot/HTML/index.html) 
 - **Introduction:** A scatter plot to identify crime patterns or clusters in the areas of reported crime. It analyzed different crimes committed in Los Angeles from 2020 to the present. 
 
 # Project Description
