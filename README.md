@@ -2,7 +2,7 @@
 
 **Title**: Crime Location Distribution
 
-**Duration**: 3 weeks
+**Duration**: 4 weeks
 
 **Team Size**: 5
 
